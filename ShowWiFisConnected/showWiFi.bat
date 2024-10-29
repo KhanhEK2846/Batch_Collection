@@ -1,4 +1,4 @@
-echo OFF
+@echo OFF
 
 del profile.txt
 

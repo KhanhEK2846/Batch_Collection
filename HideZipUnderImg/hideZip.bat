@@ -1,4 +1,4 @@
-echo OFF
+@echo OFF
 
 if "%~1" == "" goto :noti
 if "%~2" == "" goto :noti
